@@ -1,0 +1,58 @@
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.exe
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.deps.json
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.json
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.dev.json
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.dll
+D:\school\Y1.4\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.pdb
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.AssemblyReference.cache
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.Form1.resources
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.GenerateResource.cache
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfoInputs.cache
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfo.cs
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.CoreCompileInputs.cache
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.dll
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\refint\assignment1.dll
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.pdb
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.genruntimeconfig.cache
+D:\school\Y1.4\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\ref\assignment1.dll
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.exe
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.deps.json
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.json
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.dev.json
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.dll
+D:\School\Design-Patterns\week3\assignment1\bin\Debug\net5.0-windows\assignment1.pdb
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.AssemblyReference.cache
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.Form1.resources
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.TrainDisplay.resources
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.GenerateResource.cache
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfoInputs.cache
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfo.cs
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.CoreCompileInputs.cache
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.dll
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\ref\assignment1.dll
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.pdb
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.genruntimeconfig.cache
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\assignment1.TrainJourneyDisplay.resources
+D:\School\Design-Patterns\week3\assignment1\obj\Debug\net5.0-windows\refint\assignment1.dll
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.exe
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.deps.json
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.json
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.runtimeconfig.dev.json
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.dll
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\bin\Debug\net5.0-windows\assignment1.pdb
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.AssemblyReference.cache
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.Form1.resources
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.TrainDisplay.resources
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.TrainJourneyDisplay.resources
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.GenerateResource.cache
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfoInputs.cache
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.AssemblyInfo.cs
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.dll
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\refint\assignment1.dll
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.pdb
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\assignment1.genruntimeconfig.cache
+C:\Users\omar_\Downloads\Design-Patterns-main (1)\Design-Patterns-main\week3\assignment1\obj\Debug\net5.0-windows\ref\assignment1.dll

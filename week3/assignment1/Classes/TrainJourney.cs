@@ -35,7 +35,6 @@ namespace assignment1
         public void AddObserver(ITrainDisplay trainDisplay)
         {
             _displays.Add(trainDisplay);
-            trainDisplay.Update(CurrentStation);
         }
         public void RemoveObserver(ITrainDisplay trainDisplay)
         {
